@@ -25,13 +25,19 @@
 <p align="justify">
 A video content platform.
 
-The application was developed by [Rocketseat](https://rocketseat.com.br/) during <strong>Ignite Lab | ReactJS</strong>.
+The application was developed by [Rocketseat](https://rocketseat.com.br/) during Ignite Lab | ReactJS.
 
 </p>
 
 <a id="execution"></a><br>
 
 ## :tv: Preview
+
+<br>
+
+Acesse [online](https://event-platform-eosin-rho.vercel.app/)
+
+<br>
 
 ![video](.github/video.gif)
 
@@ -44,6 +50,7 @@ The application was developed by [Rocketseat](https://rocketseat.com.br/) during
 - Jest
 - Vite
 - Axios
+- Vercel
 - GraphQL
 - ReactJS
 - GraphCMS
@@ -60,32 +67,6 @@ The application was developed by [Rocketseat](https://rocketseat.com.br/) during
 ```
 git clone https://github.com/RuthMaria/event-platform.git
 ```
-
-<br>
-
-### 🗃️ Run API
-
-- Go to server folder
-
-```
-cd widget/server
-```
-
-- Install dependencies
-
-```
-npm install
-```
-
-- Run the project
-
-```
-npm run dev
-```
-
-<br>
-
-### 🖥️ Run Web Project
 
 - Install dependencies
 
