@@ -47,9 +47,7 @@ Acesse [online](https://event-platform-eosin-rho.vercel.app/)
 
 ## ⚒️ Technologies Used
 
-- Jest
 - Vite
-- Axios
 - Vercel
 - GraphQL
 - ReactJS
